@@ -1,0 +1,52 @@
+//CU O saptamana mai-nainte,pe Transfagarasan,din verdele- mbatranit si din rugina,din curcubeul
+de culori si de transarente , vulpea-materializare a anotimpului -nu li se aratase.
+Le iesise-n cale un cerb ,indiferent in maretia lui impodobita cu ample coarne ramuroase pe 
+masura vastelor ogive ale codrului si un urs - adolescent, dupa blana,dupa colti, dupa cheful 
+de joaca -nascut si crescut se vede intr-o rezervatie,fiindca se arata prietenos cu oamenii
+si le cauta societatea .
+Redat libertatii ,animalul primea danii comestibile si-n semn de gratitudine ,in timp ce donatorii
+imortalizau fotografic momentul de-nfratire -ntre specii ,el le tragea cate-o laba amicala .
+''CE vant amurg'' ...Hm ! suna-a poezie ...
+Numai TUDOR citeaza cand nute-astepti,de parca -ar spune de la el .
+IN momentul acela,punga de nailon din mana dreapta a SANZIENEI se sparse-n fund si pe totuar 
+fugira ,care-ncotro,cele cinci vinete lunguiete ,ultimele de anul asta 'si cele doua kilograme
+de mere domnesti ,cumparate mai adineauri din piata ,de la tarani.
+(OF! DE-O mie de ori am zis sa-mi iau niste plase ca lumea ,nu flendurile-astea ,in care
+pui doua paie ,si s-au dus dracu'!
+Bine ca nu s-a rupt a cu untdelemn ! Nu ma-nvat odata minte !)
+IN timp ce Sanziana se moraliza -adunandu-si de pe jos proviziile si-ncercand sa le -neghesuie 
+VA multumesc,doamna ,si nu va suparati ,dar sa va dau leul pe punga ,zise tragandusi sufletul 
+,SANZIANA .
+f
+Femeia facu cu mana ca nu era nevoie .
+Nu ma mai cunosti ,doamna DOCTOR ! ce sa mai cunosti ...si femeia facu un gest demonstrativ 
+catre parul carunt ,catre fata ridata catre corpul ei -piele de os .
+Filipescu ..Filipescu Angela ,salonul 10 ..1970spuse rar Sanziana 
+ -Da ,doamna doctor! Ma mir ca nu m-atiuitat .
+ -CUM sa va uit !
+ -Fillipescu Angela ,36 de ani ,muncitoare textilista .
+ Tentativa de sinucidere .O travirire cu Sodil .Hematoame pe tot corpul provenite din 
+ bataie .O noapte -ntreaga luptase s-o scoale din morti.
+ Apoi plastia de esofag ,trei luni in salonul 10 ,pat 7.
+ - Ce va mai fac copii , barbatul ?
+ -Multumesc, doamna doctor ,baiatul-al mare-a terminat armata,e parchetar pe santier ,al 
+
+TIPURI DE DATE;
+VARIABILE ,FUNCTII,LISTE,BUCLE,EXPRESII etc...
+- cum se declara o variabila ?
+Folosim cuvantul cheie 'var'care inseamna DECLARATIE de variabila .
+Dupa cuvantul 'var'urmeaza un spatiu ,dupa care urmeaza numele variabilei 
+dupa numele variabilei punem intotdeauna semnul egal(=) 
+dupa semnul egal urmeaza valoarea variabilei 
+-
+//exemplu; var nume = 'lucia'
+-FUNCTII -CONCEPTELE ESENTIALE DE LA FUNCTII;
+-dupace declaram o functie',urmeaza numele functiei
+-dupa nume urmeaza paranteza rotunda ()
+-intre paranteze punem parametri(daca functia are parametri,poate sa nu aiba )
+-dupa parametri urmeaza acoladele 
+-intre acolade avem continutul functiei (corpul)functiei,pe una sau mai multe linii 
+-in interiorul functiei(corpul)putem avea oricate linii de cod ,care pot fi ;functii,variabile,
+expresii si orice altceva .
+PARAMETRI ne permit sa creem un sablon care functioneaza diferit in functie de valorile
+primite pentru fiecare parametru .

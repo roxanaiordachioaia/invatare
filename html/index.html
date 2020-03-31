@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <title>Prima noastra pagina</title>
+    <style>
+      body {
+        /* background-color: #af306b; */
+      }
+      h1 {
+        color: violet;
+        font-size: 100px;
+        text-align: right;
+        background-color: yellow;
+        width: 100vw;
+        margin-bottom: 0px;
+      }
+      body {
+      }
+      p {
+        color: blue;
+      }
+
+      #cutie {
+        margin-top: 50px;
+        background-color: violet;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- <h1>Primul titlu</h1>
+    <h2>Primul titlu</h2>
+    <h3>Primul titlu</h3>
+    <h4>Primul titlu</h4>
+    <h5>Primul titlu</h5>
+    <h6>Primul titlu</h6>
+    <p>Primul titlu</p>
+    <p>
+      Acesta este un paragraf <br />
+      Inca o linie
+    </p>
+    <hr />
+    <p>
+      Acesta este un paragraf <br />
+      Inca o linie
+      <button>Apasa-ma</button>
+    </p>
+    <button>Apasa-ma</button> -->
+
+    <div id="cutie">
+      <p>Primul subiect</p>
+
+      <p>Al doilea subiect</p>
+
+      <p>Ultimul subiect</p>
+    </div>
+    <label>Numele si Prenumele:</label>
+    <br />
+    <br />
+    <input id="nume" />
+    <br />
+    <ol>
+      <li style="color: violet">Dragos Iordachioaia</li>
+      <li>Roxana</li>
+      <li>Ioana</li>
+      <li>Iubiriciul</li>
+    </ol>
+    <ul>
+      <li style="color:red">Dragos</li>
+      <li style="color: yellow">Roxana</li>
+      <li>Ioana</li>
+    </ul>
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/400px-Double-alaskan-rainbow.jpg"/>  -->
+    <button id="buton1">Apasa-ma</button>
+    <p>Numele tau este: <span id="nume-utilizator"></span></p>
+    <script>
+      document.querySelector("#buton1").addEventListener("click", function() {
+        var nume = document.querySelector("#nume").value;
+        document.querySelector("#nume-utilizator").innerHTML = nume;
+        // alert("Buna " + nume);
+      });
+    </script>
+  </body>
+  <button id="buton2">Da click</button>
+</html>

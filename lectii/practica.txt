@@ -1,0 +1,52 @@
+deschidere program = team viewer 
+limbaj in programare = javascript 
+array boolean string =
+limbaj in programare = javascript 
+limbaj in programare = javascript 
+cod de programare = 
+hardware este ceva compact(fizic)
+software = programe 
+google chrom 
+facebook 
+WhatsAPP
+netflix 
+//toate acestea sunt concepte din web .
+
+
+concepte = 5 
+web = chrome, netflix, google 
+logica 
+vorbim despre variabile: var tip string; tip numar; tip logic(boolean)
+var tip boolean: (true) si false = var logice 
+
+
+var tip array adica tip lista cu elemente stringuri(text)
+
+
+
+var array cu mai multe liste :string ,numere,in cadrul aceleasi liste 
+var boolean true sau !boolean_test 
+DECLARAM O VARIABILA ...CU O VALOARE ...
+cateva cuvinte uzuale ;node =executa .
+CLEAR = a sterge 
+comanda pentru a executa codul scris in fisier este:CONSOL.LOG (numelevariabilitatii=var)
+comanda pentru a salva un fisier:-tii apasat pe tasta 'command 'si tasta 's'
+SLATES(SLES=//)
+UNDEFINED = NEDEFINIT 
+
+
+
+variabila_asta_nu_este_lunga
+
+ 
+variabila_asta_nu_este_lunga
+
+EU aceasta  
+ cred ca autorul vede realitatea cu anumiti ochi inainte de a se apuca sa scrie o opera ,proces invers pentru cititor .
+UN anumit fel de viata il duce ,desigur,pe scriitor la un anumit fel de literatura ,in care este foarte greu sa stabilesti cat la suta este rzultat al realitatii si citla suta este rezultat al realitatii si cat al interpretariiei. 
+DOZAJUL lor depinde -cred eu-in primul rand de structura scriitorului ,de capacitatea lui de a transforma realitatea in metafora .
+cu cat aceasta capacitate este mmai mare ,cu atat elementul real din viata de toate zilele a sciitorului va transparea mai putin in opera .
+un adevarat roman este un amestec de realitate si de ignorare a ei .
+un personaj devine <<real>> in literatura - presupunand ca a avut un model in viata reala - doar dupa ce sciitorul,descompunandu-l,anihilandu-l,l-a re-creat in retortele mintii si la flacara imaginatiei sale.
+oricat de extraordinara ar fi <<realitatea>>unui sciitor,numai mintea lui o poate transforma in arta.
+IN ARTA CONVERSATIEI,<<adevarate>>-in sensul realitatii stricte ,al realitatii naratorului-sint doar fundalul istoric si sensul relatiilor sociale pe care le-a determinat .

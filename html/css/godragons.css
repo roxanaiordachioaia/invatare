@@ -1,0 +1,103 @@
+body {
+  background-color: #1b1e33;
+}
+.rand {
+  margin-top: 180px;
+  display: flex;
+  align-items: center;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+.coloana-stanga {
+  width: 50%;
+}
+.coloana-dreapta {
+  width: 50%;
+}
+h1,
+h3 {
+  color: white;
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 55px;
+}
+h3 {
+  font-size: 24px;
+}
+
+.buton-principal {
+  background-color: #6500ec;
+  color: white;
+  border: none;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 30px;
+  border-radius: 3px;
+}
+.imagine-principala {
+  width: 100%;
+}
+* {
+  font-family: "Karla", sans-serif;
+}
+
+.rand2 {
+  margin-top: 10px;
+  display: flex;
+  background-color: white;
+  /* align-items: right; */
+  padding-left: 10px;
+  padding-right: 120px;
+  padding-bottom: 50px;
+}
+.coloana2-stanga {
+  width: 45%;
+  margin-left: 0px;
+}
+.imaginesecundara {
+  width: 65%;
+  margin-top: 120px;
+  margin-left: 100px;
+  margin-bottom: 40px;
+  margin-right: 0px;
+}
+.coloana2-dreapta {
+  width: 55%;
+}
+h2 {
+  text-align: left;
+  color: black;
+  font-family: Poppins;
+  font-size: 50px;
+}
+
+.coloana2-dreapta p {
+  margin-left: auto;
+  margin-right: auto;
+  top: 10px;
+  text-align: left;
+  list-style: normal;
+  color: gray;
+  line-height: 2;
+  color: #5a6771;
+  letter-spacing: -1px;
+  font-size: 24px;
+  speak-as: 10px;
+}
+
+.buton-secundar {
+  background-color: #ff516a;
+  background-position: left top;
+  color: white;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  border-radius: 3px;
+}

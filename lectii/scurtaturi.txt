@@ -1,0 +1,24 @@
+1) CMD + A : selecteaza tot textul
+2) CMD + C : copiaza
+3) CMD + V : lipeste (merge impreuna cu CMD + C)
+4) CMD + X : taie/sterge (poate fi folosit ca si stergere, sau impreuna cu CMD + V)
+5) CMD + F : cauta in fisierul curent
+6) CMD + SHIFT + F : cauta in tot proiectul
+
+
+7) CMD + SAGEATA SUS : navigheaza pana la inceputul fisierului
+8) CMD + SAGEATA JOS : navigheaza pana la sfarsitul fisierului
+9) CMD + SAGEATA STANGA : navigheaza pana la inceputul liniei
+10) CMD + SAGEATA DREAPTA : navigheaza pana la sfarsitul liniei
+
+
+11) SHIFT + SAGEATA (SUS/JOS) : adauga intreaga linie la selectia curenta
+12) SHIFT + SAGEATA(STANGA/DREAPTA) : adauga un caracter la stanga/dreapta la selectia curenta
+13) CMD + SHIFT + SAGEATA (SUS/JOS) : adauga restul fisierului in sus/jos la selectia curenta
+
+
+14) ALT(OPTION) + SAGEATA (SUS/JOS) : muta liniile selectate in sus/jos (daca nimic nu e selectat, se muta doar linia curenta)
+15) ALT(OPTION) + SHIFT + SAGEATA (SUS/JOS) : duplica liniile selectate in sus/jos (daca nimic nu e selectat, se duplica doar linia curenta)
+
+
+16) CMD + / : comenteaza/decomenteaza liniile selectate
