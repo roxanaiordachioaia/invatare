@@ -1,7 +1,5 @@
-body {
-  background-color: #1b1e33;
-}
 .rand {
+  background-color: #1b1e33;
   margin-top: 180px;
   display: flex;
   align-items: center;
@@ -100,4 +98,43 @@ h2 {
   padding-bottom: 15px;
   font-size: 20px;
   border-radius: 3px;
+}
+
+/* Sectiunea 3 */
+
+.sectiune-servicii {
+  background-color: #4e42e4;
+}
+.coloana-titlu-servicii {
+  padding-top: 40px;
+}
+h2 {
+  color: #ffffff;
+  text-align: left;
+  margin-left: 120px;
+  margin-top: 10px;
+}
+.coloana-subtitlu-servicii {
+  padding-top: 10px;
+  width: 90%;
+  margin-left: 600px;
+}
+h4 {
+  width: 47%;
+  color: #ffffff;
+  text-align: center;
+  line-height: 1.6;
+  letter-spacing: -1px;
+  font-family: "Karla";
+  font-size: 24px;
+}
+.tabel-servicii {
+  border: #ffffff;
+  width: 40%;
+  text-align: center;
+}
+
+.serviciu .fas {
+  color: blue;
+  font-size: 30px;
 }
