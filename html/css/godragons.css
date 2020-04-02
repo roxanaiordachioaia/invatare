@@ -102,39 +102,93 @@ h2 {
 
 /* Sectiunea 3 */
 
+.box {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .sectiune-servicii {
   background-color: #4e42e4;
 }
+.rand-titlu-servicii {
+  display: flex;
+  align-items: center;
+}
 .coloana-titlu-servicii {
-  padding-top: 40px;
+  width: 40%;
 }
 h2 {
   color: #ffffff;
   text-align: left;
-  margin-left: 120px;
-  margin-top: 10px;
 }
 .coloana-subtitlu-servicii {
-  padding-top: 10px;
-  width: 90%;
-  margin-left: 600px;
+  width: 60%;
 }
 h4 {
-  width: 47%;
+  display: inline;
   color: #ffffff;
-  text-align: center;
-  line-height: 1.6;
-  letter-spacing: -1px;
+  margin-left: 15px;
+  align-items: flex-end;
   font-family: "Karla";
-  font-size: 24px;
+  font-size: 22px;
 }
+.p {
+  color: #d0b2f8;
+  font-family: Arial;
+  font-size: 30px;
+  box-sizing: border-box;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 4%;
+}
+
 .tabel-servicii {
   border: #ffffff;
-  width: 40%;
   text-align: center;
 }
 
-.serviciu .fas {
-  color: blue;
-  font-size: 30px;
+.rand-servicii {
+  display: flex;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.serviciu {
+  border: 1px solid rgba(255, 0, 255, 1);
+  width: calc(100% / 3);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.rand-titlu-serviciu {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.coloana-titlu-serviciu {
+  width: calc(100% - 53px);
+}
+.coloana-icon-serviciu {
+  width: 53px;
+}
+.coloana-titlu-serviciu h4 {
+  color: #ffffff;
+}
+.coloana-icon-serviciu i {
+  font-size: 40px;
+}
+.descriere-serviciu {
+  color: #d1b3f8;
+  font-size: 20px;
+}
+
+.learn-more {
+  width: 100%;
+  display: block;
+  text-align: center;
+  color: white;
 }
