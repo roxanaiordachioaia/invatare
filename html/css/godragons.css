@@ -126,7 +126,6 @@ h2 {
   width: 60%;
 }
 h4 {
-  display: inline;
   color: #ffffff;
   margin-left: 15px;
   align-items: flex-end;
@@ -157,15 +156,12 @@ h4 {
 .serviciu {
   border: 1px solid rgba(255, 0, 255, 1);
   width: calc(100% / 3);
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
+  padding: 20px;
 }
 
 .rand-titlu-serviciu {
   display: flex;
-  margin-top: 10px;
   align-items: center;
 }
 
@@ -174,15 +170,32 @@ h4 {
 }
 .coloana-icon-serviciu {
   width: 53px;
+  text-align: left;
 }
+
 .coloana-titlu-serviciu h4 {
   color: #ffffff;
+  text-align: left;
+  margin-left: 1px;
+  width: 100%;
+  margin: 0;
 }
+
 .coloana-icon-serviciu i {
-  font-size: 40px;
+  color: white;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  display: block;
+  line-height: 50px;
+  background-color: red;
+  border-radius: 50%;
+  font-size: 25px;
 }
+
 .descriere-serviciu {
   color: #d1b3f8;
+  text-align: left;
   font-size: 20px;
 }
 
